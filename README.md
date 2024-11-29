@@ -29,3 +29,5 @@ Este script automatiza o processamento de arquivos CSV em uma pasta específica,
 Para instalar a biblioteca, execute:
 
 pip install pandas
+
+![image](https://github.com/user-attachments/assets/66249606-76ab-4c46-b8ed-96373464125f)
